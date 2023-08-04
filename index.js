@@ -55,40 +55,40 @@ app.listen(port, () => {
 const top10Movies = () => {
     return [
         {
-            title: 'Gone with the Node',
-            year: '5/12/1967',
+            title: 'Gone with the Wind',
+            year: '6/3/1954',
         },
         {
-            title: 'Independence Daze',
-            year: '7/4/1996',
+            title: 'Independence Day',
+            year: '7/3/1996',
         },
         {
-            title: 'Dungeons & Puzzles',
-            year: '5/10/2023',
+            title: 'Dungeons & Dragons',
+            year: '3/31/2023',
         },
         {
-            title: 'Generic Marvel Movie',
-            year: '8/16/2021',
+            title: 'Spider-Man: No Way Home',
+            year: '12/17/2021',
         },
         {
-            title: 'Back to the Past II',
-            year: '2/10/1985',
+            title: 'Back to the Future II',
+            year: '11/22/1989',
         },
         {
-            title: 'Ready Player 100',
-            year: '7/10/2018',
+            title: 'Ready Player 1',
+            year: '3/29/2018',
         },
         {
-            title: 'Jongo',
-            year: '9/3/1992',
+            title: 'Honey, I Shrunk The Kids',
+            year: '6/23/1989',
         },
         {
-            title: '505 Dalmations',
-            year: '5/5/1992',
+            title: '101 Dalmations',
+            year: '11/27/1996',
         },
         {
-            title: 'Field of Jobs',
-            year: '11/4/1989',
+            title: 'Field of Dreams',
+            year: '4/21/1989',
         }
     ];
 }
